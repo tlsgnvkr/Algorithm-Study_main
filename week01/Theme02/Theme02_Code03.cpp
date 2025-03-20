@@ -28,6 +28,7 @@ int main() {
 	
 	q.pop();
 	q.pop();
+	q.pop();
 	
 	cout << q.size() << endl; // 0
 	cout << q.empty() << endl; // 1
